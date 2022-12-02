@@ -4,23 +4,23 @@
   
     
     <entry>
-      <title>初识hexo</title>
-      <link href="/2022/08/26/%E5%88%9D%E8%AF%86hexo/"/>
-      <url>/2022/08/26/%E5%88%9D%E8%AF%86hexo/</url>
+      <title>git的使用</title>
+      <link href="/2022/12/02/git/"/>
+      <url>/2022/12/02/git/</url>
       
-        <content type="html"><![CDATA[<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><p>我爱中国<br>是的</p><p>测试一下<br>测试一下<br>测试一下</p><blockquote><p>测试一下测试一下测试一下</p></blockquote><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;stdio.h&gt;</span></span></span><br><span class="line"></span><br><span class="line"><span class="type">int</span> <span class="title function_">main</span><span class="params">()</span></span><br><span class="line">&#123;</span><br><span class="line">  <span class="built_in">printf</span>(<span class="string">&quot;Hello world!\n&quot;</span>);</span><br><span class="line"></span><br><span class="line">  <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><script type="math/tex; mode=display">a+b=c</script><script type="math/tex; mode=display">abc</script><p>12</p><ul><li>123<br>123<br>大大</li></ul>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
       
       <categories>
           
-          <category> java </category>
+          <category> 必学工具 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> -java -Android </tag>
+            <tag> -版本控制 </tag>
             
         </tags>
       
